@@ -18,3 +18,8 @@ I'm a developer from Munich/Germany. My main open source projects:
 I also help maintain [jFairy](https://github.com/SkillPanel/jfairy), a fake
 data generator, and enjoy sending fixes upstream, e.g. to jdbi, Prowide
 and the Apache Maven plugins.
+
+My first pull request on GitHub, back in 2012, added
+[SMB support](https://github.com/spring-projects/spring-integration/tree/main/spring-integration-smb)
+to Spring Integration. It started out as an extension module and has been
+part of the core project since 6.0.
